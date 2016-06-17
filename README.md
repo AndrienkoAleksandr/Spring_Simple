@@ -1,6 +1,6 @@
 Spring_Simple
 =============
-Update 18.09.15 
+Update 17.06.16 
 
 * Check git push/pull messages according JGit
 
