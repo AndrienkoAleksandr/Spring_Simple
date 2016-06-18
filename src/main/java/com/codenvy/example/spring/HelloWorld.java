@@ -1,5 +1,5 @@
 package com.codenvy.example.spring;
-// change ***
+// check message after push
 public class HelloWorld {
     
     public static void main(String[] arg){
